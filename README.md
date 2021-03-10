@@ -34,29 +34,29 @@ Fotos da Aplicação
 =================
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image1.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image1.jpg" width="200" heigth="200"/>
 </h1>
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image2.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image2.jpg" width="200" heigth="200"/>
 </h1>
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image3.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image3.jpg" width="200" heigth="200"/>
 </h1>
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image4.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image4.jpg" width="200" heigth="200"/>
 </h1>
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image5.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image5.jpg" width="200" heigth="200"/>
 </h1>
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image6.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image6.jpg" width="200" heigth="200"/>
 </h1>
 
 <h1 align="center">
-  <img alt="home" title="home" src="./images/image7.jpg" style="height:10%;"/>
+  <img alt="home" title="home" src="./images/image7.jpg" width="200" heigth="200"/>
 </h1>
